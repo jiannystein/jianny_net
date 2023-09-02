@@ -1,4 +1,4 @@
-baseURL = "https://jianny.net"
+baseURL = ""
 title = "JIANNY.386"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
