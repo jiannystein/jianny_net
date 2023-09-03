@@ -53,7 +53,7 @@ preserveTaxonomyNames = true
     prefix = "[Jianny](mailto://iam@jianny.net)"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
-    suffix = "Built with Hugo | Hosted by Github | Delivered by Netlify | Made simpler by CloudFlare"
+    suffix = "Built with Hugo, Hosted and delivered by Github & Netlify, Secured by CloudFlare"
 
 [menu]
   # This displays buttons in the navbar to access your contents
