@@ -78,7 +78,7 @@ preserveTaxonomyNames = true
   [[menu.main]]
     identifier = "uptime" # An unique identifier for the button
     name = "Uptime"       # A display name for the button
-    url = "https://upp.jianny.net"      # The path to the content. It can lead to a single page (like here)
+    url = "https://up.jianny.net"      # The path to the content. It can lead to a single page (like here)
     weight = 40          # A number to order the buttons in the navbar
 
   [[menu.main]]
