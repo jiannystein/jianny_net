@@ -77,15 +77,21 @@ preserveTaxonomyNames = true
 
   [[menu.main]]
     identifier = "uptime" # An unique identifier for the button
-    name = "Uptime"       # A display name for the button
+    name = "Uptime Kuma"       # A display name for the button
     url = "https://up.jianny.net"      # The path to the content. It can lead to a single page (like here)
     weight = 40          # A number to order the buttons in the navbar
+
+  [[menu.main]]
+    identifier = "uptime" # An unique identifier for the button
+    name = "Upptime"       # A display name for the button
+    url = "https://upptime.jianny.net"      # The path to the content. It can lead to a single page (like here)
+    weight = 50          # A number to order the buttons in the navbar
 
   [[menu.main]]
     identifier = "about" # An unique identifier for the button
     name = "Hugo"       # A display name for the button
     url = "/about/"      # The path to the content. It can lead to a single page (like here)
-    weight = 50          # A number to order the buttons in the navbar
+    weight = 60          # A number to order the buttons in the navbar
 
 
 [taxonomies]
