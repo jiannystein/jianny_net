@@ -58,12 +58,6 @@ preserveTaxonomyNames = true
 [menu]
   # This displays buttons in the navbar to access your contents
   [[menu.main]]
-    identifier = "about" # An unique identifier for the button
-    name = "Hugo"       # A display name for the button
-    url = "/about/"      # The path to the content. It can lead to a single page (like here)
-    weight = 40          # A number to order the buttons in the navbar
-
-  [[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/post/"       # The path can lead to a content folder too.
@@ -80,6 +74,19 @@ preserveTaxonomyNames = true
     name = "Draw"
     url = "https://draw.jianny.net"       # The path can lead to a content folder too.
     weight = 30
+
+  [[menu.main]]
+    identifier = "uptime" # An unique identifier for the button
+    name = "Uptime"       # A display name for the button
+    url = "https://upp.jianny.net"      # The path to the content. It can lead to a single page (like here)
+    weight = 40          # A number to order the buttons in the navbar
+
+  [[menu.main]]
+    identifier = "about" # An unique identifier for the button
+    name = "Hugo"       # A display name for the button
+    url = "/about/"      # The path to the content. It can lead to a single page (like here)
+    weight = 50          # A number to order the buttons in the navbar
+
 
 [taxonomies]
 category = "categories"
