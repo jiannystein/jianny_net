@@ -1,9 +1,12 @@
 +++
-title = 'Recently deployed projects and thoughts on FOSS'
-date = 2023-10-27T18:14:21+08:00
+title = 'Update and thoughts on FOSS'
+date = 2023-10-26T22:44:53+08:00
 description = "Recent FOSS experiments and thoughts"
 tags = [
-    "FOSS"
+    "markdown",
+    "css",
+    "html",
+    "hugo",
 ]
 categories = [
     "Open-Source",
@@ -11,6 +14,8 @@ categories = [
 ]
 draft = false
 +++
+It's a crunch period at work these days and have very little time for studies and hobbies...
+
 # Thoughts
 I use **open-source** because it's lightweight and runs well on my Raspberry Pi. I don't think the **commercial** server will run on a Pi. I have not used the **commercial** server, so I can't really make a meaningful comparison.
 
