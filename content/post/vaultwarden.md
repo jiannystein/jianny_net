@@ -3,10 +3,16 @@ title = 'Update and thoughts on FOSS'
 date = 2023-10-26T22:44:53+08:00
 description = "Recent FOSS experiments and thoughts"
 tags = [
-    "markdown",
-    "css",
-    "html",
-    "hugo",
+    "vaultwarden",
+    "cloudpanel",
+    "serpbear",
+    "UptimeKuma",
+    "Wazuh",
+    "tldraw",
+    "Excalidraw",
+    "Upptime",
+    "Cloudflare Tunnel",
+    "Cloudflare Page Rules",
 ]
 categories = [
     "Open-Source",
@@ -34,7 +40,7 @@ Whilst companies need to earn our trust because they want us to use their softwa
 - [SerpBear](https://docs.serpbear.com/): Free Serp tracking for SEO related works
 - [Uptime Kuma](https://uptime.kuma.pet/): Uptime monitor that is pretty famous these days
 - [Wazuh](https://wazuh.com/): Free Splunk SIEM alternative, but do check out SecurityOnion as well
-- [tldfraw](https://www.tldraw.com/): Diagraming tool for simple work
+- [tldraw](https://www.tldraw.com/): Diagraming tool for simple work
 - [Excalidraw](https://plus.excalidraw.com/): Diagraming tool for complex work
 - [Upptime](https://github.com/jiannystein/upptime): Uptime monitor using only Github Actions, no server required
 - [VaultWarden](https://www.vaultwarden.net/): Password Manager
